@@ -1,6 +1,5 @@
-﻿using SMapper;
-using Newtonsoft.Json;
-using System.Reflection;
+﻿using Newtonsoft.Json;
+using SMapper;
 
 var a = new A()
 {
