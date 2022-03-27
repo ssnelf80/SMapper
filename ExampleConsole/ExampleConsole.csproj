@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AutoMapper\SMapper.csproj" />
+    <ProjectReference Include="..\SMapper\SMapper.csproj" />
   </ItemGroup>
 
 </Project>
