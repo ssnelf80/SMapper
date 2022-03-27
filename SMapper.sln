@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMapper", "AutoMapper\SMapper.csproj", "{41A2DD99-68F4-4F2C-9DF8-C43B34168501}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMapper", "SMapper\SMapper.csproj", "{41A2DD99-68F4-4F2C-9DF8-C43B34168501}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleConsole", "ExampleConsole\ExampleConsole.csproj", "{9A2955A1-364E-4DD0-8E89-0DA50E93A5F0}"
 EndProject
